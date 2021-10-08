@@ -1,0 +1,6 @@
+Django
+djangorestframework
+bcrypt
+django-cors-headers
+django-allauth
+Pillow
